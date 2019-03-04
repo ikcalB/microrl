@@ -1,3 +1,4 @@
+.ccls-cache/
 *.o
 microrl_test
 tags
